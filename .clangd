@@ -1,3 +1,5 @@
-"clangd.arguments": 
+<!-- markdownlint-disable MD041 -->
+CompileFlags:
+  Add: 
     - "--compile-commands-dir=${command:cmake.buildDirectory}",
     - "--query-driver=D:/LLVM/bin/clang++.exe"
