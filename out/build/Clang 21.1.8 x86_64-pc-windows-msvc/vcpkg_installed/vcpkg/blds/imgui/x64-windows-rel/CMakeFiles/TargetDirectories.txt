@@ -1,0 +1,6 @@
+D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/vcpkg/blds/imgui/x64-windows-rel/CMakeFiles/imgui.dir
+D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/vcpkg/blds/imgui/x64-windows-rel/CMakeFiles/edit_cache.dir
+D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/vcpkg/blds/imgui/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/vcpkg/blds/imgui/x64-windows-rel/CMakeFiles/list_install_components.dir
+D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/vcpkg/blds/imgui/x64-windows-rel/CMakeFiles/install.dir
+D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/vcpkg/blds/imgui/x64-windows-rel/CMakeFiles/install/local.dir

@@ -1,0 +1,4 @@
+D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/debug/lib/imguid.lib
+D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/debug/share/imgui/imgui-config.cmake
+D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/debug/share/imgui/imgui-targets.cmake
+D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/debug/share/imgui/imgui-targets-debug.cmake

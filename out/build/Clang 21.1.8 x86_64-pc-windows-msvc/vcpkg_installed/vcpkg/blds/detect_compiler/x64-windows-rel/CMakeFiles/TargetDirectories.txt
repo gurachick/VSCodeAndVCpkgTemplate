@@ -1,0 +1,2 @@
+D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/edit_cache.dir
+D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/rebuild_cache.dir

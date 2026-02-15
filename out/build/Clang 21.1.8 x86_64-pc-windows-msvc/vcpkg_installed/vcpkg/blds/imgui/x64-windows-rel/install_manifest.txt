@@ -1,0 +1,11 @@
+D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/lib/imgui.lib
+D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imgui.h
+D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imconfig.h
+D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imgui_internal.h
+D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imstb_textedit.h
+D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imstb_rectpack.h
+D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imstb_truetype.h
+D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imgui_stdlib.h
+D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/share/imgui/imgui-config.cmake
+D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/share/imgui/imgui-targets.cmake
+D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/share/imgui/imgui-targets-release.cmake
