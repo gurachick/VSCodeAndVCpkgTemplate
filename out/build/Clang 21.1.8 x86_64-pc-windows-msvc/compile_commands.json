@@ -1,7 +1,7 @@
 [
 {
   "directory": "D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc",
-  "command": "D:\\LLVM\\bin\\clang++.exe -DFMT_SHARED -isystem \"D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/x64-windows/include\" -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\test.dir\\main.cpp.obj -c D:\\code\\test\\main.cpp",
+  "command": "D:\\LLVM\\bin\\clang++.exe -DFMT_SHARED -DUNICODE -D_UNICODE -isystem \"D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/vcpkg_installed/x64-windows/include\" -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\test.dir\\main.cpp.obj -c D:\\code\\test\\main.cpp",
   "file": "D:/code/test/main.cpp",
   "output": "D:/code/test/out/build/Clang 21.1.8 x86_64-pc-windows-msvc/CMakeFiles/test.dir/main.cpp.obj"
 }
